@@ -1376,10 +1376,10 @@
   dependencies:
     systeminformation "5.23.8"
 
-"@opentelemetry/id-generator-aws-xray@^2.0.0":
-  version "2.0.0"
-  resolved "https://registry.yarnpkg.com/@opentelemetry/id-generator-aws-xray/-/id-generator-aws-xray-2.0.0.tgz#c7e38563dbab43ae3db36708ac168d7faa0887ec"
-  integrity sha512-o3/kw+HRd1uIe74F50EqFsStsAvTa/Xxv798j7xWFNfaDrSZmbFS8+L0CLJVTEtslSG5iVBhCKPbEtSn1ReKLA==
+"@opentelemetry/id-generator-aws-xray@^2.1.0":
+  version "2.1.0"
+  resolved "https://registry.yarnpkg.com/@opentelemetry/id-generator-aws-xray/-/id-generator-aws-xray-2.1.0.tgz#02d02a7fa7a0c501ba4ca350bcbe19091260fcee"
+  integrity sha512-hyyEpR6cwxmrXRSQPCIOUkTY+RQRM+zSUpzF3wnu56Ow7Rv+yU0N18b64cVoX2Ir98lFeesF6nrynEa4eN4gfw==
   dependencies:
     "@opentelemetry/sdk-trace-base" "^2.0.0"
 
